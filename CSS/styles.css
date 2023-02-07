@@ -1,0 +1,15 @@
+h1{
+  color: #00ffff;
+}
+h2{
+  color: #00ffff;
+}
+p{
+  color:#ff66ff;
+}
+hr{
+ border-color: grey;
+ border-width: 5px;
+ border-style: dotted none none;
+ width: 5%
+}
